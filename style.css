@@ -1,0 +1,27 @@
+div.Socials a {
+    text-decoration: none;
+    color: black;
+}
+
+div.Button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+}
+
+div.DonateButton a {
+    color: white;
+}
+
+div.Button a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    display: flex;
+    width: max-content;
+    padding-bottom: 10px;
+}
