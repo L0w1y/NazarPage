@@ -38,6 +38,7 @@ div.Button a {
 
 img {
     width: 100%;
+    filter: grayscale();
 }
 
 div {
